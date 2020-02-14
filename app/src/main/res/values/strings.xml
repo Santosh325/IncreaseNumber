@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">rain</string>
+    <string name="title">You have</string>
+    <string name="button">Make it Rain</string>
+    <string name="money">0</string>
+    <string name="show_tag">showTag</string>
+    <string name="reset">Reset</string>
+    <string name="fun">Hava a fun!</string>
+    <string name="second_button">second Button</string>
+
+</resources>
